@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body {
+    font-family: 'Dancing Script', cursive !important;
+    background-color: azure;
+}
+
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+header {
+    background-color: green;
+    width: 100wh;
+}
+
+.pantins {
+    background-color: greenyellow;
+    text-align: center;
+    width: 200px;
+}
